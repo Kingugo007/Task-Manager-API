@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "baseUrl": "https://632b03111090510116ce8c28.mockapi.io/api/v1/Tasks"
+  },
+  "AllowedHosts": "*"
+}
