@@ -1,7 +1,8 @@
 # Task Manager API
 
 Task Manager API is a RESTful API built with ASP.NET Core web API, and I used mockapi.io to save my data. The task manager provides access to can be integrated into other applications that require the task manager's services.
-
+# Note
+To run this application in your local machine you need some configuration settings which is contained in the appsettings file.
 ## Allowed HTTP requests
 ```
 * Get: Get a list of tasks
